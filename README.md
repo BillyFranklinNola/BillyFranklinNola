@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <a href="your link" target="blank"><img align="center" src="https://raw.githubusercontent.com/BillyFranklinNola/BillyFranklinNola/3656ff8fd74628d27bbb9f11bdf3f0cb36d73a72/css3-original-wordmark.svg" alt="CSS 3 Icon" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://raw.githubusercontent.com/BillyFranklinNola/BillyFranklinNola/2d76b379bddb15f0e55c49a0be63c8e3bb845787/nodejs-original-wordmark.svg" alt="NODEjs Icon" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://raw.githubusercontent.com/BillyFranklinNola/BillyFranklinNola/0578d67cbbd3af7e530ddd17a2a531f7ae214d8e/bootstrap-original-wordmark.svg" alt="Bootsrap Icon" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://raw.githubusercontent.com/BillyFranklinNola/BillyFranklinNola/af7a942e259a181e5256d75a0bcfe00d24f4e315/photoshop-line.svg" alt="Photoshop Icon" height="30" width="40" /></a>
 
-<a href="your link" target="blank"><img align="center" src="https://raw.githubusercontent.com/BillyFranklinNola/BillyFranklinNola/0578d67cbbd3af7e530ddd17a2a531f7ae214d8e/bootstrap-original-wordmark.svg" alt="Bootsrap Icon" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://raw.githubusercontent.com/BillyFranklinNola/BillyFranklinNola/af7a942e259a181e5256d75a0bcfe00d24f4e315/photoshop-line.svg" alt="Photoshop Icon" height="30" width="40" /></a>
 </p>
