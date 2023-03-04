@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 &nbsp;
 <a href="your link" target="blank"><img align="center" src="https://raw.githubusercontent.com/BillyFranklinNola/BillyFranklinNola/2d76b379bddb15f0e55c49a0be63c8e3bb845787/nodejs-original-wordmark.svg" alt="NODEjs Icon" height="75" width="75" /></a>
 &nbsp;
-<a href="your link" target="blank"><img align="center" src="https://raw.githubusercontent.com/BillyFranklinNola/BillyFranklinNola/0578d67cbbd3af7e530ddd17a2a531f7ae214d8e/bootstrap-original-wordmark.svg" alt="Bootsrap Icon" height="75" width="75" padding="300px"/></a>
+<a href="your link" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" alt="Bootsrap Icon" height="75" width="75" padding="300px"/></a>
 &nbsp;
 &nbsp;
 <a href="your link" target="blank"><img align="center" src="https://raw.githubusercontent.com/BillyFranklinNola/BillyFranklinNola/af7a942e259a181e5256d75a0bcfe00d24f4e315/photoshop-line.svg" alt="Photoshop Icon" height="75" width="75" /></a>
