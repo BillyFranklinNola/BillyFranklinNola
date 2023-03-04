@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 <a href="your link" target="blank"><img align="center" src="https://raw.githubusercontent.com/BillyFranklinNola/BillyFranklinNola/0578d67cbbd3af7e530ddd17a2a531f7ae214d8e/bootstrap-original-wordmark.svg" alt="Bootsrap Icon" height="75" width="75" /></a>
 <a href="your link" target="blank"><img align="center" src="https://raw.githubusercontent.com/BillyFranklinNola/BillyFranklinNola/af7a942e259a181e5256d75a0bcfe00d24f4e315/photoshop-line.svg" alt="Photoshop Icon" height="75" width="75" /></a>
 <a href="your link" target="blank"><img align="center" src="https://raw.githubusercontent.com/BillyFranklinNola/BillyFranklinNola/0abbd49d76992843b6c922044c553dfbcdf4a8c5/premierepro-original.svg" alt="Adobe Premier Icon" height="75" width="75" /></a>
-<a href="your link" target="blank"><img align="center" src="https://github.com/BillyFranklinNola/BillyFranklinNola/blob/main/Pro%20Tools.png?raw=true" alt="ProTools Icon" height="75" width="75" /></a>
-<a href="your link" target="blank"><img align="center" src="https://github.com/BillyFranklinNola/BillyFranklinNola/blob/main/Flask.jpg?raw=true" alt="Flask Icon" height="75" width="75" /></a>
+<a href="your link" target="blank"><img align="center" src="https://github.com/BillyFranklinNola/BillyFranklinNola/blob/main/Pro%20Tools.png?raw=true" alt="ProTools Icon" height="80" width="80" /></a>
+<a href="your link" target="blank"><img align="center" src="https://github.com/BillyFranklinNola/BillyFranklinNola/blob/main/Flask.jpg?raw=true" alt="Flask Icon" height="80" width="80" /></a>
 </p>
